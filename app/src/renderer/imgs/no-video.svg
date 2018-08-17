@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="124px" height="124px" viewBox="0 0 124 124" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 43.2 (39069) - http://www.bohemiancoding.com/sketch -->
+    <title>Group 99 Copy</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <rect id="path-1" x="0" y="0" width="124" height="124" rx="8"></rect>
+        <mask id="mask-2" maskContentUnits="userSpaceOnUse" maskUnits="objectBoundingBox" x="0" y="0" width="124" height="124" fill="white">
+            <use xlink:href="#path-1"></use>
+        </mask>
+    </defs>
+    <g id="Landing-Page" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Group-99-Copy">
+            <g id="Group-91">
+                <text id="?" font-family="AvenirNext-Bold, Avenir Next" font-size="52.5" font-weight="bold" fill="#B0C1C9">
+                    <tspan x="44" y="80">?</tspan>
+                </text>
+                <use id="Rectangle-53" stroke="#B0C1C9" mask="url(#mask-2)" stroke-width="4" stroke-dasharray="9" xlink:href="#path-1"></use>
+            </g>
+        </g>
+    </g>
+</svg>

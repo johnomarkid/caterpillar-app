@@ -1,0 +1,17 @@
+{
+  "name": "caterpillar",
+  "version": "0.0.2",
+  "description": "Learn a language with your favorite movies.",
+  "main": "./dist/main.js",
+  "dependencies": {
+    "firebase": "^3.7.1",
+    "pouchdb-browser": "^6.1.1",
+    "pouchdb-upsert": "^2.0.2",
+    "vue": "^2.1.10",
+    "vue-electron": "^1.0.6",
+    "vue-resource": "^1.0.3",
+    "vuex": "^2.1.1"
+  },
+  "devDependencies": {},
+  "author": "John Omar <me@johnomar.com>"
+}
